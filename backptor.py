@@ -48,7 +48,7 @@ def backup_pack():  # função que cria um arquivo compactado adicionando a data
         logging.error("backup_pack: erro: %s", e)
 
 
-def backup_antigo():
+def backup_antigo():  # função que verifica a existencia de uma backup antigo(- delete days) e o apaga caso esse exista
     data_atual_formatada = data_atual.strftime('%d%m%Y')
     data_antiga = data_atual - timedelta(days=delete_days)
     data_antiga = data_antiga.strftime('%d%m%Y')
