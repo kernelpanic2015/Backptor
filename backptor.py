@@ -12,10 +12,10 @@ import os
 __author__ = 'SpectronPanic'
 __copyright__ = 'Copyright 2015, SpectronPanic'
 __credits__ = ['SpectronPanic']
-__license__ = 'opensource'
+__license__ = 'Open Source'
 __version__ = '1.0.0'
-__maintainer__ = 'SpectronPanic, Enaldo Leite'
-__email__ = 'fj.leite@yahoo.com'
+__maintainer__ = 'SpectronPanic, KernelPanic'
+__email__ = 'fj.leite@yahoo.com, kernelpanic2015@gmail.com'
 __status__ = 'Development'
 
 cfg_file = 'cfg/config.ini'
