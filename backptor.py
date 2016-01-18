@@ -12,7 +12,7 @@ import os
 __author__ = 'SpectronPanic'
 __copyright__ = 'Copyright 2015, SpectronPanic'
 __credits__ = ['SpectronPanic']
-__license__ = 'Commercial'
+__license__ = 'opensource'
 __version__ = '1.0.0'
 __maintainer__ = 'SpectronPanic, Enaldo Leite'
 __email__ = 'fj.leite@yahoo.com'
